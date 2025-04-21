@@ -56,16 +56,3 @@ The main goal of this project is to detect and monitor car parking spaces. It co
 - `main.py`: Script for processing the video and detecting parking space occupancy.
 - `CarParkPos`: Binary file containing saved parking space coordinates (created by `parkingspacepicker.py`).
 
-## Contributing
-
-Contributions to this project are welcome! If you have any ideas, improvements, or bug fixes, please create a pull request. Feel free to open issues for discussions or feature requests.
-
-## License
-
-This project is licensed under the MIT License.
-
-## Credits
-
-- Original inspiration and educational content provided by [Murtaza's Computer Vision Zone](https://www.computervision.zone/).
-- Course link: [Computer Vision Zone YouTube Course](https://www.youtube.com/watch?v=caKnQlCMIYI).
-- This project was created by [Harsh Bafna](https://github.com/harshbafnaa)
